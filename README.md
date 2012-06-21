@@ -12,17 +12,17 @@ TDB
 
 ## Want to participate?
 
-Add your name to the [participants] list.
+Add your name to the [participants](https://github.com/PharkMillups/sf-table-tennis-tourney/blob/master/participants.md) list.
 
 ## Have a table we can use?
 
-Add your details to the [tables] list.
+Add your details to the [tables](https://github.com/PharkMillups/sf-table-tennis-tourney/blob/master/tables.md) list.
 
 ## Table Tennis Lizard 
 
 We'll need a mascot... 
 
-
+![mascot](https://github.com/PharkMillups/sf-table-tennis-tourney/raw/master/assets/tt.jpg)
 
 
 
