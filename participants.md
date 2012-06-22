@@ -6,3 +6,4 @@ _You're not required to provide a nick name but those who don't will be supplied
 * [Jesper Noehr](https://twitter.com/jespern)
 * [David Chambers](https://twitter.com/davidchambers) (aka **The Ballerina**)
 * [Nikita Shamgunov](https://twitter.com/#!/NikitaShamgunov) (aka **chpong**)
+* [Dan Patey](https://twitter.com/DanPatey) (aka **Rudest Buddhist**)
