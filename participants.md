@@ -8,3 +8,5 @@ _You're not required to provide a nick name but those who don't will be supplied
 * [Nikita Shamgunov](https://twitter.com/#!/NikitaShamgunov) (aka **chpong**)
 * [Dan Patey](https://twitter.com/DanPatey) (aka **Rudest Buddhist**)
 * [Matt Pruitt](https://twitter.com/guitsaru)
+* [Jordan Shaw](https://github.com/jshaw127) (aka **The Young Gun**)
+
