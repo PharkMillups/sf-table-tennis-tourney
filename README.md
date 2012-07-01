@@ -27,9 +27,8 @@ _You're not required to provide a nick name but those who don't will be supplied
 
 ## Have a table we can use?
 
-Add your details:
+Add your details (company name and/or location along with hours of availability would be great)
 
-_Company name and/or location along with hours of availability would be great._
 1. Engine Yard - 500 3rd street, after 5pm
 
 ## Table Tennis Lizard 
