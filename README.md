@@ -12,11 +12,25 @@ TDB
 
 ## Want to participate?
 
-Add your name to the [participants](https://github.com/PharkMillups/sf-table-tennis-tourney/blob/master/participants.md) list.
+Add your name to the list.
+
+_You're not required to provide a nick name but those who don't will be supplied one by the organizers..._
+
+* [Mark Phillips](https://twitter.com/pharkmillups) (aka **Phark the Destroyer**)
+* [Jesper Noehr](https://twitter.com/jespern)
+* [David Chambers](https://twitter.com/davidchambers) (aka **The Ballerina**)
+* [Nikita Shamgunov](https://twitter.com/#!/NikitaShamgunov) (aka **chpong**)
+* [Dan Patey](https://twitter.com/DanPatey) (aka **Rudest Buddhist**)
+* [Matt Pruitt](https://twitter.com/guitsaru)
+* [Jordan Shaw](https://github.com/jshaw127) (aka **The Young Gun**)
+
 
 ## Have a table we can use?
 
-Add your details to the [tables](https://github.com/PharkMillups/sf-table-tennis-tourney/blob/master/tables.md) list.
+Add your details:
+
+_Company name and/or location along with hours of availability would be great._
+1. Engine Yard - 500 3rd street, after 5pm
 
 ## Table Tennis Lizard 
 
