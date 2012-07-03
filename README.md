@@ -24,6 +24,7 @@ _You're not required to provide a nick name but those who don't will be supplied
 * [Matt Pruitt](https://twitter.com/guitsaru)
 * [Jordan Shaw](https://github.com/jshaw127) (aka **The Young Gun**)
 * [Duncan Phillips](https://twitter.com/nuknad) (aka **nuknad**)
+* [Tim Anglade](https://twitter.com/timanglade) (aka **Phat Phrench Killa**)
 
 ## Have a table we can use?
 
