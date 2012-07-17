@@ -26,13 +26,15 @@ _You're not required to provide a nick name but those who don't will be supplied
 * [Duncan Phillips](https://twitter.com/nuknad) (aka **nuknad**)
 * [Tim Anglade](https://twitter.com/timanglade) (aka **Phat Phrench Killa**)
 * [Fabio Kung](https://twitter.com/fabiokung) (aka **FcK**)
+* [Morten Bagai](https://twitter.com/mortenheroku)
 
 ## Have a table we can use?
 
 Add your details (company name and/or location along with hours of availability would be great)
 
 1. Engine Yard - 500 3rd street, after 5pm
-2. Storek Building - 149 9th streetm, all day and after 5pm. 
+2. Storek Building - 149 9th streetm, all day and after 5pm.
+3. Heroku - 321 11th St, after 5pm + can do event for more people with notice
 
 ## Table Tennis Lizard 
 
