@@ -27,6 +27,7 @@ _You're not required to provide a nick name but those who don't will be supplied
 * [Tim Anglade](https://twitter.com/timanglade) (aka **Phat Phrench Killa**)
 * [Fabio Kung](https://twitter.com/fabiokung) (aka **FcK**)
 * [Morten Bagai](https://twitter.com/mortenheroku)
+* [Blake Mizerany](https://twitter.com/bmizerany)
 
 ## Have a table we can use?
 
